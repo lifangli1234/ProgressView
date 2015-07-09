@@ -31,6 +31,8 @@
     self.squareProgressView.myProgressType = squareProgressType;
     self.triangelProgressView.value = value;
     self.squareProgressView.value = value;
+    
+    //测试、、、、、、
 }
 
 -(void)valueChanged:(NSTimer *)timer
